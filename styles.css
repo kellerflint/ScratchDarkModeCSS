@@ -63,3 +63,65 @@ div.account-nav_user-info_2We7v.menu-bar_menu-bar-item_oLDa-.menu-bar_hoverable_
 div.menu-bar_menu-bar-item_oLDa- {
   background-color: #073763;
 }
+
+div.sprite-info_sprite-info_3EyZh.box_box_2jjDp {
+  background-color: #434343;
+}
+
+div.sprite-selector_sprite-selector_2KgCX.box_box_2jjDp {
+  border-color: #202020;
+}
+
+div.stage-selector_stage-selector_3oWOr.box_box_2jjDp {
+  background-color: #434343;
+  border-color: #202020;
+}
+
+div.stage-selector_header_2GVr1 {
+  background-color: #434343;
+}
+
+div.stage-selector_count_2QK7D {
+  color: whitesmoke;
+}
+
+div.sprite-selector_scroll-wrapper_3NNnc.box_box_2jjDp {
+  background-color: #434343;
+}
+
+div.sprite-selector-item_sprite-name_1PXjh {
+  color: whitesmoke;
+}
+
+div.sprite-selector-item_sprite-image-inner_3oSwi {
+  background-color: #606060;
+}
+
+div.sprite-selector-item_sprite-info_-I0i_ {
+  background-color: #303030;
+}
+
+input.input_input-form_l9eYg.sprite-info_sprite-input_17wjb {
+  background-color: #434343;
+  color: whitesmoke;
+}
+
+input.input_input-form_l9eYg.input_input-small_2qj1C {
+  background-color: #434343;
+  color: whitesmoke;
+}
+
+span.button_outlined-button_1bS__.stage-header_stage-button_hkl9B.stage-header_stage-button-first_y_CLF.stage-header_stage-button-toggled-off_AJ8yG {
+  background-color: #434343;
+  border-color: #303030;
+}
+
+span.button_outlined-button_1bS__.stage-header_stage-button_hkl9B.stage-header_stage-button-last_eeKZ4 {
+  background-color: #434343;
+  border-color: #303030;
+}
+
+span.button_outlined-button_1bS__.stage-header_stage-button_hkl9B {
+  background-color: #434343;
+  border-color: #303030;
+}
