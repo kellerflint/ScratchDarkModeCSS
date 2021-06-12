@@ -29,3 +29,17 @@ div.gui_tabs_AgmuP {
 div.menu-bar_main-menu_3wjWH {
   background-color: #073763;
 }
+
+li.react-tabs_react-tabs__tab_3Nn-X.gui_tab_27Unf {
+  background-color: #333333;
+  border-color: #202020;
+}
+
+li.react-tabs_react-tabs__tab_3Nn-X.gui_tab_27Unf.react-tabs_react-tabs__tab--selected_EW0CL.gui_is-selected_sHAiu {
+  background-color: #444444;
+  border-color: #303030;
+}
+
+span {
+  color: whitesmoke;
+}
