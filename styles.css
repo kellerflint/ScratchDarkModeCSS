@@ -161,3 +161,36 @@ div.library_library-scroll-grid_1jyXm.library_withFilterBar_26Opm {
 div.library-item_library-item_1DcMO.box_box_2jjDp {
   background-color: #606060;
 }
+
+#pagewrapper {
+  background-color: #434343;
+}
+
+div.box {
+  background-color: #434343;
+}
+
+div.media-list {
+  background-color: #434343;
+}
+
+ul li a {
+  background-color: #505050;
+  color: whitesmoke;
+}
+
+li.sub-list {
+  background-color: #505050;
+}
+
+div.library_library-scroll-grid_1jyXm {
+  background-color: #434343;
+}
+
+div.library-item_library-item_1DcMO.library-item_featured-item_3V2-t.library-item_library-item-extension_3xus9 {
+  background-color: #434343;
+}
+
+div.library-item_featured-extension-metadata-detail_1M9BV {
+  color: white;
+}
